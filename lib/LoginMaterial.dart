@@ -47,7 +47,7 @@ class MyApp extends StatelessWidget {
                 style: TextStyle(color: Colors.white),
               ),
               style: ElevatedButton.styleFrom(
-                  fixedSize: Size(313, 40),
+                  fixedSize: Size(313, 45),
                   backgroundColor: Color.fromARGB(239, 88, 26, 235)),
             ),
             SizedBox(height: 20.0),
